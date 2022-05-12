@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="java" />
+        <module name="HomeWork_2.2_testMockito" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="geo-service" target="11" />
+      <module name="HomeWork_2.2_testMockito" target="11" />
+      <module name="java" target="11" />
+      <module name="main" target="11" />
+      <module name="src" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

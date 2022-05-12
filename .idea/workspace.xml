@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6013ec2e-f536-42b7-934b-104b587ed4df" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="2836F0I4IuXu8Ksb3Hzvak9qF2R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="jdk.selected.JAVA_MODULE" value="corretto-11" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/Geo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\бошко\IdeaProjects\HomeWork\HomeWork_2.2_testMockito\src\main\java" />
+      <recent name="C:\Users\бошко\IdeaProjects\HomeWork\HomeWork_2.2_testMockito\src\main\java\Sender" />
+      <recent name="C:\Users\бошко\IdeaProjects\HomeWork\HomeWork_2.2_testMockito\.idea" />
+      <recent name="C:\Users\бошко\IdeaProjects\HomeWork\HomeWork_2.2_testMockito" />
+      <recent name="C:\Users\бошко\IdeaProjects\HomeWork\HomeWork_2.2_testMockito\src\test\java" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="i18n" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="i18n" />
+      <recent name="Geo" />
+      <recent name="Sender" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.netology.geo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MessageSenderTest.sendTest (2)">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HomeWork_2.2_testMockito" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageSenderTest.sendTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork_2.2_testMockito" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MessageSenderTest" />
+      <option name="METHOD_NAME" value="sendTest(Geo.Location,java.util.Map,java.lang.String,Geo.Country,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageSenderTest.sendTest (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork_2.2_testMockito" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MessageSenderTest" />
+      <option name="METHOD_NAME" value="sendTest(Geo.Location,java.lang.String,Geo.Country,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageSenderTest.sendTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork_2.2_testMockito" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MessageSenderTest" />
+      <option name="METHOD_NAME" value="sendTest(java.lang.String,java.lang.String,Geo.Country,java.util.Map)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageSenderTest.testSendRussia" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork_2.2_testMockito" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MessageSenderTest" />
+      <option name="METHOD_NAME" value="testSendRussia" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.MessageSenderTest.sendTest" />
+      <item itemvalue="JUnit.MessageSenderTest.testSendRussia" />
+      <item itemvalue="JUnit.MessageSenderTest.sendTest (1)" />
+      <item itemvalue="JUnit.MessageSenderTest.sendTest (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MessageSenderTest.sendTest (2)" />
+        <item itemvalue="JUnit.MessageSenderTest.sendTest (1)" />
+        <item itemvalue="JUnit.MessageSenderTest.testSendRussia" />
+        <item itemvalue="JUnit.MessageSenderTest.sendTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6013ec2e-f536-42b7-934b-104b587ed4df" name="Changes" comment="" />
+      <created>1650432814703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650432814703</updated>
+    </task>
+    <servers />
+  </component>
+</project>
